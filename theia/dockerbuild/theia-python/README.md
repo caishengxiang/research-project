@@ -5,6 +5,7 @@
 ```bash
 docker build . -t theiaide/theia-python:0.3.12
 docker build . -t theiaide/theia-python:latest
+docker build . -t ccr.ccs.tencentyun.com/caishengxiang/theia-python:latest
 ```
 
 
